@@ -63,11 +63,11 @@
         ]
      },		   
 	 {
-        "title":"الحدث",
+        "title":"الدكتور نزار باهبري",
         "provider":"youtube",
         "arguments":[
-          "UCrj5BGAhtWxDfqbza9T9hqA",
-          "channel"
+          "PLE4grxNYwL7jpw8HFIwRRQeIw8v9jsTOL",
+          "playlist"
 
         ]
      },
