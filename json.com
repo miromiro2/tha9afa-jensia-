@@ -421,7 +421,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.knoozapps.appm.halta3lam.SettingsFragment", "fragment"
+          "com.aramexapps.appa.saudinews.SettingsFragment", "fragment"
         ]
       }
     ]
