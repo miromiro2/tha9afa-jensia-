@@ -5,6 +5,24 @@
     "submenu":"",
     "iap":false,
     "tabs":[
+    {
+        "title":"دكتور عمرو المليجي",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkq1WpzrhsZ7rhh_7_pNgH4Q",
+          "playlist"
+
+	    ]
+		},
+{
+        "title":"الصحة الجنسية عند الرجل",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkodyY4okBTSH3grZikaZfQu",
+          "playlist"
+
+	    ]
+		},
 	  {
         "title":"للكبار فقط",
         "provider":"youtube",
@@ -14,6 +32,33 @@
 
 	    ]
 		},
+{
+        "title":"عمرو الأهوانى",
+        "provider":"youtube",
+        "arguments":[
+          "UCB0kHyCHrpm-4PFa2nEhMjg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"نصائح",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqdQIrc6QmYo6fipb9SdSJ6",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"كل يوم فيديو",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqviK1dyQCQxz3xmTn6i1Ml",
+          "playlist"
+
+        ]
+     },
     {
         "title":"جسد",
         "provider":"youtube",
@@ -76,33 +121,6 @@
         "provider":"youtube",
         "arguments":[
           "PLYybnLiaI3Da-GQ8Pt1cqnIKn4T_L4-_V",
-          "playlist"
-
-        ]
-     },
-     {
-        "title":"عمرو الأهوانى",
-        "provider":"youtube",
-        "arguments":[
-          "UCB0kHyCHrpm-4PFa2nEhMjg",
-          "playlist"
-
-        ]
-     },
-	 {
-        "title":"نصائح",
-        "provider":"youtube",
-        "arguments":[
-          "PL7MSEqQL8uFqdQIrc6QmYo6fipb9SdSJ6",
-          "playlist"
-
-        ]
-     },
-	 {
-        "title":"كل يوم فيديو",
-        "provider":"youtube",
-        "arguments":[
-          "PL7MSEqQL8uFqviK1dyQCQxz3xmTn6i1Ml",
           "playlist"
 
         ]
@@ -205,71 +223,71 @@
      }
 	      ,
 	 {
-        "title":"الجزيرة",
+        "title":"الحب ثقافة",
         "provider":"youtube",
         "arguments":[
-          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "UCUZY64_oANDYRe6cEM4RBuA",
           "channel"
 
         ]
      }
 	          ,
 	 {
-        "title":"France 24",
+        "title":"Lezim Taaref",
         "provider":"youtube",
         "arguments":[
-          "UCdTyuXgmJkG_O8_75eqej-w",
-          "channel"
+          "PLh0nSjACpYj1ivTpcdSikyth-xTuRqJHg",
+          "playlist"
 
         ]
      }
 	         ,
 	 {
-        "title":"CNEWS FR",
+        "title":"Altibbi",
         "provider":"youtube",
         "arguments":[
-          "UCXKJrYczY2_fJEZgFPGY0HQ",
-          "channel"
+          "PLh0nSjACpYj1rDuVE8y9R_iipks7oW66d",
+          "playlist"
 
         ]
      }
 	           ,
 	 {
-        "title":"France 24 FR",
+        "title":"الصحة الجنسية عند المرأة",
         "provider":"youtube",
         "arguments":[
-          "UCCCPCZNChQdGa9EkATeye4g",
-          "channel"
+          "PLj-gLu6U9hkoGInge0MMl3UhxjB8-gKAA",
+          "playlist"
 
         ]
      }
 	           ,
 	 {
-        "title":"BFMTV",
+        "title":"العلاج الجنسي",
         "provider":"youtube",
         "arguments":[
-          "UCXwDLMDV86ldKoFVc_g8P0g",
-          "channel"
+          "PLj-gLu6U9hko0kSkC8DXMTMonfh11i5Zy",
+          "playlist"
 
         ]
      }
 	           ,
 	 {
-        "title":"DOCUMENTAIRE",
+        "title":"سلسلة حلقات "هل"",
         "provider":"youtube",
         "arguments":[
-          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
-          "channel"
+          "PLj-gLu6U9hkoUts5Wd8n5XrVGtiVB4Vh-",
+          "playlist"
 
         ]
      }
 	           ,
 	 {
-        "title":"AlArabiya قناة العربية ",
+        "title":"نصائح للمتعة الجنسيةه",
         "provider":"youtube",
         "arguments":[
-          "UCahpxixMCwoANAftn6IxkTg",
-          "channel"
+          "PLj-gLu6U9hkpQIAvDPL4Bi6y36F7MhPq7",
+          "playlist"
 
         ]
      }
