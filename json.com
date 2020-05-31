@@ -1,4 +1,150 @@
 [
+{
+     "title":"الجديد",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+    {
+        "title":"دكتور عمرو المليجي",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkq1WpzrhsZ7rhh_7_pNgH4Q",
+          "playlist"
+
+	    ]
+		},
+{
+        "title":"الصحة الجنسية عند الرجل",
+        "provider":"youtube",
+        "arguments":[
+          "PLj-gLu6U9hkodyY4okBTSH3grZikaZfQu",
+          "playlist"
+
+	    ]
+		},
+	  {
+        "title":"للكبار فقط",
+        "provider":"youtube",
+        "arguments":[
+          "PL2sNc9poCYwGPoJmosb6JC8hQe7H9UXNL",
+          "playlist"
+
+	    ]
+		},
+{
+        "title":"عمرو الأهوانى",
+        "provider":"youtube",
+        "arguments":[
+          "UCB0kHyCHrpm-4PFa2nEhMjg",
+          "channel"
+
+        ]
+     },
+	 {
+        "title":"نصائح",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqdQIrc6QmYo6fipb9SdSJ6",
+          "playlist"
+
+        ]
+     },
+	 {
+        "title":"كل يوم فيديو",
+        "provider":"youtube",
+        "arguments":[
+          "PL7MSEqQL8uFqviK1dyQCQxz3xmTn6i1Ml",
+          "playlist"
+
+        ]
+     },
+    {
+        "title":"جسد",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI065pKEKUBT-k0fTcamj0G8",
+          "playlist"
+
+        ]
+     }
+	      ,
+        {
+        "title":"70 فائدة لترك الإباحية",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI2JkAyvZXSQcQN1HT1WDinH",
+          "playlist"
+
+        ]
+     }
+	      ,
+        {
+        "title":"النساء",
+        "provider":"youtube",
+        "arguments":[
+          "PLL2vReDNHmI2O5lnbNIAKSOjuV-3N60Dm",
+          "playlist"
+
+        ]
+     }
+	      ,
+     {
+        "title":"د. هبة قطب",
+        "provider":"youtube",
+        "arguments":[
+          "UCOfrigCXuZ0zC7fUMxGGPKQ",
+          "channel"
+
+        ]
+     },
+    {
+        "title":"برنامج بوضوح",
+        "provider":"youtube",
+        "arguments":[
+          "PLv05GG5AHXijEUyhTH9PxAmJ2wDUnzCUF",
+          "playlist"
+
+        ]
+     },		   
+	 {
+        "title":"الدكتور نزار باهبري",
+        "provider":"youtube",
+        "arguments":[
+          "PLE4grxNYwL7jpw8HFIwRRQeIw8v9jsTOL",
+          "playlist"
+
+        ]
+     },
+     {
+        "title":"العلاقةالجنسية",
+        "provider":"youtube",
+        "arguments":[
+          "PLYybnLiaI3Da-GQ8Pt1cqnIKn4T_L4-_V",
+          "playlist"
+
+        ]
+     },
+     {
+        "title":"Orient TV ",
+        "provider":"youtube",
+        "arguments":[
+          "UCZslGytOwaEEZPkiE4X47FA",
+          "channel"
+
+        ]
+     },
+     {
+        "title":"إبن عثيمين",
+        "provider":"youtube",
+        "arguments":[
+          "UCtF3YygTiodnYSw8vD3UJtQ",
+          "channel"
+
+        ]
+     }
+	    ]
+		},
     {
      "title":"نصائح",
     "drawable":"",
@@ -126,7 +272,7 @@
      }
 	           ,
 	 {
-        "title":"سلسلة حلقات "هل"",
+        "title":"سلسلة حلقات هل",
         "provider":"youtube",
         "arguments":[
           "PLj-gLu6U9hkoUts5Wd8n5XrVGtiVB4Vh-",
