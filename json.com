@@ -5,42 +5,6 @@
     "submenu":"",
     "iap":false,
     "tabs":[
-    {
-        "title":"دكتور عمرو المليجي",
-        "provider":"youtube",
-        "arguments":[
-          "PLj-gLu6U9hkq1WpzrhsZ7rhh_7_pNgH4Q",
-          "playlist"
-
-	    ]
-		},
-{
-        "title":"الصحة الجنسية عند الرجل",
-        "provider":"youtube",
-        "arguments":[
-          "PLj-gLu6U9hkodyY4okBTSH3grZikaZfQu",
-          "playlist"
-
-	    ]
-		},
-	  {
-        "title":"للكبار فقط",
-        "provider":"youtube",
-        "arguments":[
-          "PL2sNc9poCYwGPoJmosb6JC8hQe7H9UXNL",
-          "playlist"
-
-	    ]
-		},
-{
-        "title":"عمرو الأهوانى",
-        "provider":"youtube",
-        "arguments":[
-          "UCB0kHyCHrpm-4PFa2nEhMjg",
-          "channel"
-
-        ]
-     },
 	 {
         "title":"نصائح",
         "provider":"youtube",
