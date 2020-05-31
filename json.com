@@ -5,6 +5,15 @@
     "submenu":"",
     "iap":false,
     "tabs":[
+{
+        "title":"Culture sexuelle",
+        "provider":"youtube",
+        "arguments":[
+          "PLxfsTkT4TBf6Sd6tSm1Yht776z3-fUefu",
+          "playlist"
+
+        ]
+     },
     {
         "title":"دكتور عمرو المليجي",
         "provider":"youtube",
@@ -107,39 +116,12 @@
 
         ]
      },		   
-	 {
+     {
         "title":"الدكتور نزار باهبري",
         "provider":"youtube",
         "arguments":[
           "PLE4grxNYwL7jpw8HFIwRRQeIw8v9jsTOL",
           "playlist"
-
-        ]
-     },
-     {
-        "title":"العلاقةالجنسية",
-        "provider":"youtube",
-        "arguments":[
-          "PLYybnLiaI3Da-GQ8Pt1cqnIKn4T_L4-_V",
-          "playlist"
-
-        ]
-     },
-     {
-        "title":"Orient TV ",
-        "provider":"youtube",
-        "arguments":[
-          "UCZslGytOwaEEZPkiE4X47FA",
-          "channel"
-
-        ]
-     },
-     {
-        "title":"إبن عثيمين",
-        "provider":"youtube",
-        "arguments":[
-          "UCtF3YygTiodnYSw8vD3UJtQ",
-          "channel"
 
         ]
      }
@@ -221,6 +203,15 @@
         ]
      }
 	      ,
+{
+        "title":"العلاقةالجنسية",
+        "provider":"youtube",
+        "arguments":[
+          "PLYybnLiaI3Da-GQ8Pt1cqnIKn4T_L4-_V",
+          "playlist"
+
+        ]
+     },
 	 {
         "title":"الحب ثقافة",
         "provider":"youtube",
@@ -293,6 +284,22 @@
 	    ]
 		}
 	,
+{
+   "title":"كل شيء في الجنس",
+    "drawable":"",
+    "submenu":"كتب عن الجنس",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://ia801908.us.archive.org/25/items/secret_201612/secret.pdf"
+        ]
+      }
+    ]
+
+  },	
   {
     "title":"عن التطبيق",
     "drawable":"",
